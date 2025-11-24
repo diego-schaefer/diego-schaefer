@@ -1,15 +1,15 @@
-### Hello there 👋
+### Hi, I'm an Android Enginner 🛠️
 
-#### 🏗️ Android Engineer focused on Scalable Architecture & Foundations
+#### Transforming complex requirements into elegant, maintainable Android Code.
 
-Senior Android Developer crafting high-performance applications with a focus on **Developer Experience (DX)** and **System Design**. Currently building robust solutions at [Monuv](https://monuv.com.br).
+I am an Android Developer passionate about **Clean Code** and **UI Architecture**. I believe that great user experiences are built upon solid engineering foundations.
 
-- 🔭 **Focus Areas:** Modular Architecture, Build Engineering (Gradle), Server-Driven UI, and Performance Optimization.
-- ⚙️ **The Stack:** - **Language:** 100% Kotlin (Coroutines, Flow).
-  - **Architecture:** Clean Arch, MVVM, SOLID, Multi-module.
-  - **Tooling:** Hilt (DI), Coil (Image Loading), Kotlin Serialization, Room.
-  - **UI:** Jetpack Compose & Custom View Systems.
-- 🚀 **Mission:** I bridge the gap between Backend logic and Mobile performance. My background in backend communities (Laravel) gives me a unique edge in designing schema-driven client architectures (SDUI/GraphQL).
+**Technical Deep Dive:**
+* 📱 **Android:** Proficient in modern Android development (Kotlin, StateFlow, Hilt).
+* 📐 **Architecture:** Strong advocate for Clean Architecture and MVVM principles to ensure testability and scalability.
+* 🎨 **Design & Engineering:** With a background in design thinking, I specialize in building UI frameworks that bridge the gap between design specs and implementation (Compose/View System).
 
----
-[![](https://img.shields.io/badge/Kotlin-Advanced-7F52FF?style=flat&logo=kotlin&logoColor=white)]() [![](https://img.shields.io/badge/Android-Jetpack-3DDC84?style=flat&logo=android&logoColor=white)]() [![](https://img.shields.io/badge/Architecture-Clean_Code-blue?style=flat)]()
+**Current Stack Strategy:**
+`Kotlin` • `Clean Architecture` • `Hilt` • `Coil` • `Kotlin Serialization` • `CI/CD Pipelines`
+
+📫 **Let's talk about:** Mobile System Design, Performances, Gradle Optimizations, and Declarative UI.
