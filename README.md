@@ -13,3 +13,5 @@ I am an Android Developer passionate about **Clean Code** and **UI Architecture*
 `Kotlin` • `Clean Architecture` • `Hilt` • `Coil` • `Kotlin Serialization` • `CI/CD Pipelines`
 
 📫 **Let's talk about:** Mobile System Design, Performances, Gradle Optimizations, and Declarative UI.
+
+**Passionate about learning new things**
